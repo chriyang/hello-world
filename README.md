@@ -1,5 +1,4 @@
 # hello-world
-Learning Github
 
 Hello Github users!
 
